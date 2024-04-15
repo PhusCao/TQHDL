@@ -1,7 +1,7 @@
 pandas
 plotly
 streamlit
+yfinance
 pandas-datareader
 matplotlib
 streamlit-option-menu
-yfiance
